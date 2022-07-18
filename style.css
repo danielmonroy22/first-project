@@ -158,7 +158,7 @@ header {
 .quote {
     margin-top: 6rem;
     background-color: #e5e7eb;
-    padding: 5rem 15rem;
+    padding: 8rem 15rem;
 
 
 }
@@ -174,4 +174,49 @@ header {
     font-weight: bold;
     display: flex;
     justify-content: end;
+}
+
+/* Sign Up Section */
+.signup {
+    padding: 60px 30px;
+}
+
+.container-signup {
+    border-radius: 5px;
+    padding: 30px 50px;
+    margin: auto;
+    color: white;
+    width: 60%;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-around;
+}
+
+.headings-signup {
+    width: 60%;
+    cursor: default;
+
+}
+
+.headings-signup p {
+    font-size: 0.8rem;
+    color: rgb(225, 224, 224);
+}
+
+.signup-button {
+    padding: 5px 30px;
+    color: white;
+    border-radius: 5px;
+
+    border: 1.5px solid white;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+footer {
+    padding: 30px;
+    color: white;
+    background-color: #1F2937;
+    text-align: center;
+    font-weight: 100;
 }
