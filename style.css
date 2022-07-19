@@ -73,6 +73,7 @@ header {
     color: white;
     font-weight: bold;
     font-size: 0.8rem;
+    cursor: pointer;
 
 
 }
@@ -89,6 +90,7 @@ header {
     width: 30rem;
     height: 12rem;
     background-color: gray;
+
 }
 
 .image1 {
